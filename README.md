@@ -1,4 +1,4 @@
-Minimum reporduction for [this NestJS issue](https://github.com/nestjs/nest/issues/6870)
+Minimum reproduction for [this NestJS issue](https://github.com/nestjs/nest/issues/6870)
 
 
 ## Setup
